@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "text": "Small spherical model of earth is called",
+    "choices": [
+      {
+        "id": 0,
+        "text": "map"
+      },
+      {
+        "id": 1,
+        "text": "globe"
+      },
+      {
+        "id": 2,
+        "text": "world"
+      },
+      {
+        "id": 3,
+        "text": "hemisphere"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "globe"
+    }
+  },
+  {
+    "id": 1,
+    "text": "Which of the following is not a continent?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Asia"
+      },
+      {
+        "id": 1,
+        "text": "Africa"
+      },
+      {
+        "id": 2,
+        "text": "Arctic"
+      },
+      {
+        "id": 3,
+        "text": "Antarctica"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Arctic"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Indian Ocean is touched by",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Asia"
+      },
+      {
+        "id": 1,
+        "text": "Africa"
+      },
+      {
+        "id": 2,
+        "text": "Australia"
+      },
+      {
+        "id": 3,
+        "text": "All of these"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "All of these"
+    }
+  }
+]
