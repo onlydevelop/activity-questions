@@ -447,24 +447,24 @@
     "choices": [
       {
         "id": 0,
-        "text": "Commet"
+        "text": "Calf"
       },
       {
         "id": 1,
-        "text": "Mercury"
+        "text": "Eyas"
       },
       {
         "id": 2,
-        "text": "Saturn"
+        "text": "Infant"
       },
       {
         "id": 3,
-        "text": "Uranus"
+        "text": "Kitty"
       }
     ],
     "correct": {
-      "id": 0,
-      "text": "Commet"
+      "id": 2,
+      "text": "Infant"
     }
   }    
 ]
