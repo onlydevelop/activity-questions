@@ -381,7 +381,7 @@
       },
       {
         "id": 3,
-        "text": "Satelite"
+        "text": "Meteors"
       }
     ],
     "correct": {
@@ -466,5 +466,317 @@
       "id": 2,
       "text": "Infant"
     }
-  }    
+  },
+  {
+    "id": 18,
+    "text": "What is the young ones of hawk called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Calf"
+      },
+      {
+        "id": 1,
+        "text": "Eyas"
+      },
+      {
+        "id": 2,
+        "text": "Infant"
+      },
+      {
+        "id": 3,
+        "text": "Kitty"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Eyas"
+    }
+  },
+  {
+    "id": 19,
+    "text": "What is the sound of a lion called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Roaring"
+    }
+  },
+  {
+    "id": 20,
+    "text": "What is the sound of an owl called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Hooting"
+    }
+  },
+  {
+    "id": 21,
+    "text": "What is the young ones of elephant called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Calf"
+      },
+      {
+        "id": 1,
+        "text": "Eyas"
+      },
+      {
+        "id": 2,
+        "text": "Infant"
+      },
+      {
+        "id": 3,
+        "text": "Kitty"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Calf"
+    }
+  },
+  {
+    "id": 22,
+    "text": "What is the sound of a sheep called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Bleating"
+    }
+  },
+  {
+    "id": 23,
+    "text": "What is the sound of a snake called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hissing"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Hissing"
+    }
+  },
+  {
+    "id": 24,
+    "text": "What is the sound of a dog called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Barking"
+    }
+  },
+  {
+    "id": 25,
+    "text": "What is the sound of a peacock called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Screaming"
+      },
+      {
+        "id": 2,
+        "text": "Grunting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Screaming"
+    }
+  },
+  {
+    "id": 26,
+    "text": "What is the sound of a pig called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Screaming"
+      },
+      {
+        "id": 2,
+        "text": "Grunting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Grunting"
+    }
+  },
+  {
+    "id": 27,
+    "text": "What is the sound of an elephant called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Trumpeting"
+    }
+  },
+  {
+    "id": 28,
+    "text": "What is the sound of a parrot called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Talking"
+    }
+  },
+  {
+    "id": 29,
+    "text": "What is the sound of a duck called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Quacking"
+    }
+  }
 ]
