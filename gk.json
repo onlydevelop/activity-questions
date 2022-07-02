@@ -778,5 +778,239 @@
       "id": 1,
       "text": "Quacking"
     }
+  },
+  {
+    "id": 30,
+    "text": "Which animal changes its colour to defend itself?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Chameleon"
+      },
+      {
+        "id": 1,
+        "text": "Hyena"
+      },
+      {
+        "id": 2,
+        "text": "Porcupine"
+      },
+      {
+        "id": 3,
+        "text": "Zebra"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Chameleon"
+    }
+  },
+  {
+    "id": 31,
+    "text": "Which animal's body is covered with long prickles?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Chameleon"
+      },
+      {
+        "id": 1,
+        "text": "Hyena"
+      },
+      {
+        "id": 2,
+        "text": "Porcupine"
+      },
+      {
+        "id": 3,
+        "text": "Zebra"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Porcupine"
+    }
+  },
+  {
+    "id": 32,
+    "text": "Which animal looks like a wolf and laughs?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Chameleon"
+      },
+      {
+        "id": 1,
+        "text": "Hyena"
+      },
+      {
+        "id": 2,
+        "text": "Porcupine"
+      },
+      {
+        "id": 3,
+        "text": "Zebra"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Hyena"
+    }
+  },
+  {
+    "id": 33,
+    "text": "Which animal has a striped body?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Chameleon"
+      },
+      {
+        "id": 1,
+        "text": "Hyena"
+      },
+      {
+        "id": 2,
+        "text": "Porcupine"
+      },
+      {
+        "id": 3,
+        "text": "Zebra"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Zebra"
+    }
+  },
+  {
+    "id": 34,
+    "text": "Which animal is our national animal?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Tiger"
+      },
+      {
+        "id": 1,
+        "text": "Lion"
+      },
+      {
+        "id": 2,
+        "text": "Giraffe"
+      },
+      {
+        "id": 3,
+        "text": "Rabbit"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Tiger"
+    }
+  },
+  {
+    "id": 35,
+    "text": "Which animal is called the king of the jungle?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Tiger"
+      },
+      {
+        "id": 1,
+        "text": "Lion"
+      },
+      {
+        "id": 2,
+        "text": "Giraffe"
+      },
+      {
+        "id": 3,
+        "text": "Rabbit"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Lion"
+    }
+  },
+  {
+    "id": 36,
+    "text": "Which animal is the tallest animal?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Tiger"
+      },
+      {
+        "id": 1,
+        "text": "Lion"
+      },
+      {
+        "id": 2,
+        "text": "Giraffe"
+      },
+      {
+        "id": 3,
+        "text": "Rabbit"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Giraffe"
+    }
+  },
+  {
+    "id": 37,
+    "text": "What is the science of the human race called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Anatomy"
+      },
+      {
+        "id": 1,
+        "text": "Cryptology"
+      },
+      {
+        "id": 2,
+        "text": "Anthropology"
+      },
+      {
+        "id": 3,
+        "text": "Cytology"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Anthropology"
+    }
+  },
+  {
+    "id": 38,
+    "text": "What is the study of the human mind called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Psychology"
+      },
+      {
+        "id": 1,
+        "text": "Cryptology"
+      },
+      {
+        "id": 2,
+        "text": "Anthropology"
+      },
+      {
+        "id": 3,
+        "text": "Cytology"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Pschylology"
+    }
   }
 ]
