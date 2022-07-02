@@ -1,0 +1,782 @@
+[
+  {
+    "id": 0,
+    "text": "Which planet is called the King of Planets?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Mercury"
+      },
+      {
+        "id": 1,
+        "text": "Jupitar"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Venus"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Jupitar"
+    }
+  },
+  {
+    "id": 1,
+    "text": "Which planet is very hot during the day and very cold at night?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Mercury"
+      },
+      {
+        "id": 1,
+        "text": "Jupitar"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Venus"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Mercury"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Which is the only planet that supports life?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Mercury"
+      },
+      {
+        "id": 1,
+        "text": "Jupitar"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Venus"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Earth"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Which planet has no moon and is a neighbour of the earth? It is called The Evening Star.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Mercury"
+      },
+      {
+        "id": 1,
+        "text": "Jupitar"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Venus"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Venus"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Which planet is pale blue in colour and named after the Roman Sea God?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Uranus"
+      },
+      {
+        "id": 1,
+        "text": "Neptune"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Neptune"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Which heavenly body is very far from the Sun and has a moon called Charon?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Uranus"
+      },
+      {
+        "id": 1,
+        "text": "Neptune"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Pluto"
+    }
+  },
+  {
+    "id": 6,
+    "text": "Which is seventh planet from the Sun and was discovered by William Herschel?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Uranus"
+      },
+      {
+        "id": 1,
+        "text": "Neptune"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Uranus"
+    }
+  },
+  {
+    "id": 7,
+    "text": "Which planet is called The Red Planet and has two moons, Phobos and Deimos?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Uranus"
+      },
+      {
+        "id": 1,
+        "text": "Mars"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Mars"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Which planet is the second largest planet and has broad rings?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Saturn"
+      },
+      {
+        "id": 1,
+        "text": "Mars"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Saturn"
+    }
+  },
+  {
+    "id": 9,
+    "text": "What is at the centre of the solar system?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Sun"
+      },
+      {
+        "id": 1,
+        "text": "Mars"
+      },
+      {
+        "id": 2,
+        "text": "Earth"
+      },
+      {
+        "id": 3,
+        "text": "Pluto"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Sun"
+    }
+  },
+  {
+    "id": 10,
+    "text": "What is group of stars called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Star"
+      },
+      {
+        "id": 1,
+        "text": "Constalletion"
+      },
+      {
+        "id": 2,
+        "text": "Planet"
+      },
+      {
+        "id": 3,
+        "text": "Satelite"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Constalletion"
+    }
+  },
+  {
+    "id": 11,
+    "text": "What planet do we live on?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Mercury"
+      },
+      {
+        "id": 1,
+        "text": "Earth"
+      },
+      {
+        "id": 2,
+        "text": "Uranus"
+      },
+      {
+        "id": 3,
+        "text": "Jupiter"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Earth"
+    }
+  },
+  {
+    "id": 12,
+    "text": "What are the objects between planets called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Star"
+      },
+      {
+        "id": 1,
+        "text": "Asteroids"
+      },
+      {
+        "id": 2,
+        "text": "Planet"
+      },
+      {
+        "id": 3,
+        "text": "Satelite"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Asteroids"
+    }
+  },
+  {
+    "id": 13,
+    "text": "What sre the heavenly objects called that fall on the earth and create hollows?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Star"
+      },
+      {
+        "id": 1,
+        "text": "Asteroids"
+      },
+      {
+        "id": 2,
+        "text": "Meterors"
+      },
+      {
+        "id": 3,
+        "text": "Satelite"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Meterors"
+    }
+  },
+  {
+    "id": 14,
+    "text": "What is the satelite of the earth called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Star"
+      },
+      {
+        "id": 1,
+        "text": "Asteroids"
+      },
+      {
+        "id": 2,
+        "text": "Moon"
+      },
+      {
+        "id": 3,
+        "text": "Meteors"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Moon"
+    }
+  },
+  {
+    "id": 15,
+    "text": "Which planet is closest to the Sun?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Earth"
+      },
+      {
+        "id": 1,
+        "text": "Mercury"
+      },
+      {
+        "id": 2,
+        "text": "Saturn"
+      },
+      {
+        "id": 3,
+        "text": "Uranus"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Mercury"
+    }
+  },
+  {
+    "id": 16,
+    "text": "Which object has a tail and appears once in 75 years?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Commet"
+      },
+      {
+        "id": 1,
+        "text": "Mercury"
+      },
+      {
+        "id": 2,
+        "text": "Saturn"
+      },
+      {
+        "id": 3,
+        "text": "Uranus"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Commet"
+    }
+  },
+  {
+    "id": 17,
+    "text": "What is a gorilla's baby called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Calf"
+      },
+      {
+        "id": 1,
+        "text": "Eyas"
+      },
+      {
+        "id": 2,
+        "text": "Infant"
+      },
+      {
+        "id": 3,
+        "text": "Kitty"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Infant"
+    }
+  },
+  {
+    "id": 18,
+    "text": "What is the young ones of hawk called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Calf"
+      },
+      {
+        "id": 1,
+        "text": "Eyas"
+      },
+      {
+        "id": 2,
+        "text": "Infant"
+      },
+      {
+        "id": 3,
+        "text": "Kitty"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Eyas"
+    }
+  },
+  {
+    "id": 19,
+    "text": "What is the sound of a lion called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Roaring"
+    }
+  },
+  {
+    "id": 20,
+    "text": "What is the sound of an owl called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Hooting"
+    }
+  },
+  {
+    "id": 21,
+    "text": "What is the young ones of elephant called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Calf"
+      },
+      {
+        "id": 1,
+        "text": "Eyas"
+      },
+      {
+        "id": 2,
+        "text": "Infant"
+      },
+      {
+        "id": 3,
+        "text": "Kitty"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "Calf"
+    }
+  },
+  {
+    "id": 22,
+    "text": "What is the sound of a sheep called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Bleating"
+    }
+  },
+  {
+    "id": 23,
+    "text": "What is the sound of a snake called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hissing"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Hissing"
+    }
+  },
+  {
+    "id": 24,
+    "text": "What is the sound of a dog called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Hooting"
+      },
+      {
+        "id": 2,
+        "text": "Bleating"
+      },
+      {
+        "id": 3,
+        "text": "Barking"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Barking"
+    }
+  },
+  {
+    "id": 25,
+    "text": "What is the sound of a peacock called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Screaming"
+      },
+      {
+        "id": 2,
+        "text": "Grunting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Screaming"
+    }
+  },
+  {
+    "id": 26,
+    "text": "What is the sound of a pig called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Screaming"
+      },
+      {
+        "id": 2,
+        "text": "Grunting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Grunting"
+    }
+  },
+  {
+    "id": 27,
+    "text": "What is the sound of an elephant called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Trumpeting"
+    }
+  },
+  {
+    "id": 28,
+    "text": "What is the sound of a parrot called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Talking"
+    }
+  },
+  {
+    "id": 29,
+    "text": "What is the sound of a duck called?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Roaring"
+      },
+      {
+        "id": 1,
+        "text": "Quacking"
+      },
+      {
+        "id": 2,
+        "text": "Trumpeting"
+      },
+      {
+        "id": 3,
+        "text": "Talking"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Quacking"
+    }
+  }
+]
