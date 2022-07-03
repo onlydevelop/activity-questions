@@ -1,0 +1,745 @@
+[
+  {
+    "id": 0,
+    "text": "All living things are made up of?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "food"
+      },
+      {
+        "id": 1,
+        "text": "cells"
+      },
+      {
+        "id": 2,
+        "text": "none of these"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "cells"
+    }
+  },
+  {
+    "id": 1,
+    "text": "All living things _______________ to produce energy?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "respire"
+      },
+      {
+        "id": 1,
+        "text": "walk"
+      },
+      {
+        "id": 2,
+        "text": "run"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "respire"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Sunflower always faces towards the",
+    "choices": [
+      {
+        "id": 0,
+        "text": "north"
+      },
+      {
+        "id": 1,
+        "text": "moon"
+      },
+      {
+        "id": 2,
+        "text": "sun"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "sun"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Snake, frogs and fish",
+    "choices": [
+      {
+        "id": 0,
+        "text": "lay eggs"
+      },
+      {
+        "id": 1,
+        "text": "give birth to young ones"
+      },
+      {
+        "id": 2,
+        "text": "none of these"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "lay eggs"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Growth is an increase in ____________ and _____________",
+    "choices": [
+      {
+        "id": 0,
+        "text": "size and weight"
+      },
+      {
+        "id": 1,
+        "text": "maturity and weight"
+      },
+      {
+        "id": 2,
+        "text": "none of these"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "size and weight"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Growth stops in _______________________ after sometime.",
+    "correct": {
+      "id": 0,
+      "text": "animals"
+    }
+  },
+  {
+    "id": 6,
+    "text": "Growth in _______________________ things is internal.",
+    "correct": {
+      "id": 0,
+      "text": "living"
+    }
+  },
+  {
+    "id": 7,
+    "text": "All living things respire to produce ______________.",
+    "correct": {
+      "id": 0,
+      "text": "energy"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Responding to stimuli is ____________________ in animals than in plants.",
+    "correct": {
+      "id": 0,
+      "text": "quicker"
+    }
+  },
+  {
+    "id": 9,
+    "text": "________________ give birth to young ones.",
+    "correct": {
+      "id": 0,
+      "text": "Mammals"
+    }
+  },
+  {
+    "id": 10,
+    "text": "________________ reproduce through seeds, stems, roots and bulbs.",
+    "correct": {
+      "id": 0,
+      "text": "Plants"
+    }
+  },
+  {
+    "id": 11,
+    "text": "Living things grow in size as their cells grow.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 12,
+    "text": "Plants stop growing after some time.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 13,
+    "text": "Oxygen is important for living things to obtain energy from food.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 14,
+    "text": "Plants get energy from sunlight to make their food.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 15,
+    "text": "Plants reproduce from seeds only.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 16,
+    "text": "I enter the body when you breathe and spread to all parts of the body. Who am I?",
+    "correct": {
+      "id": 0,
+      "text": "Oxygen"
+    }
+  },
+  {
+    "id": 17,
+    "text": "I turn freshly prepared colourless lime water milky. Who am I?",
+    "correct": {
+      "id": 0,
+      "text": "Carbon-di-oxide"
+    }
+  },
+  {
+    "id": 18,
+    "text": "I bend down immediately when someone touches me. Who am I?",
+    "correct": {
+      "id": 0,
+      "text": "Touch-me-not"
+    }
+  },
+  {
+    "id": 19,
+    "text": "I grow continuously throughout the life. Who am I?",
+    "correct": {
+      "id": 0,
+      "text": "Plants"
+    }
+  },
+  {
+    "id": 20,
+    "text": "I am a gas that is used as a fire extinguisher. Who am I?",
+    "correct": {
+      "id": 0,
+      "text": "Carbon-di-oxide"
+    }
+  },
+  {
+    "id": 21,
+    "text": "Define Growth",
+    "correct": {
+      "text": "Growth is an increase in size and weight."
+    }
+  },
+  {
+    "id": 22,
+    "text": "Define Respiration",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 23,
+    "text": "Define Cell",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 24,
+    "text": "Define Response",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 25,
+    "text": "Define Reproduction",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 26,
+    "text": "What is the difference between the growth of plants and animals?",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 27,
+    "text": "What are stimuli?",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 28,
+    "text": "How do plants respond to stimuli? Give example.",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 29,
+    "text": "Describe reproduction in animals.",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 30,
+    "text": "How do plants reproduce?",
+    "correct": {
+      "text": ""
+    }
+  },
+  {
+    "id": 31,
+    "text": "The outer covering of a seed is called",
+    "choices": [
+      {
+        "id": 0,
+        "text": "radicle"
+      },
+      {
+        "id": 1,
+        "text": "seed coat"
+      },
+      {
+        "id": 2,
+        "text": "seed cloth"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "seed coat"
+    }
+  },
+  {
+    "id": 32,
+    "text": "Seeds with two leaves are called",
+    "choices": [
+      {
+        "id": 0,
+        "text": "monocotyledons"
+      },
+      {
+        "id": 1,
+        "text": "dicotyledons"
+      },
+      {
+        "id": 2,
+        "text": "tricotyledons"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "dicotyledons"
+    }
+  },
+  {
+    "id": 33,
+    "text": "A tiny plant with seed leaves is called",
+    "choices": [
+      {
+        "id": 0,
+        "text": "embryo"
+      },
+      {
+        "id": 1,
+        "text": "seedling"
+      },
+      {
+        "id": 2,
+        "text": "seed leaf"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "seedling"
+    }
+  },
+  {
+    "id": 34,
+    "text": "The agents for seed dispersal",
+    "choices": [
+      {
+        "id": 0,
+        "text": "wind"
+      },
+      {
+        "id": 1,
+        "text": "water"
+      },
+      {
+        "id": 2,
+        "text": "both"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "both"
+    }
+  },
+  {
+    "id": 35,
+    "text": "Which of the following seed is dispersed by water?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "coconut"
+      },
+      {
+        "id": 1,
+        "text": "tridox"
+      },
+      {
+        "id": 2,
+        "text": "xanthium"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "coconut"
+    }
+  },
+  {
+    "id": 36,
+    "text": "The development of ____________ into _____________ is called germination.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "seeds and seedlings"
+      },
+      {
+        "id": 1,
+        "text": "embryo and leaf"
+      },
+      {
+        "id": 2,
+        "text": "radicle and root"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "seeds and seedlings"
+    }
+  },
+  {
+    "id": 37,
+    "text": "The very young plant within the seed is called an _____________",
+    "correct": {
+      "id": 0,
+      "text": "embryo"
+    }
+  },
+  {
+    "id": 38,
+    "text": "The very young plant within the seed is called an _____________",
+    "correct": {
+      "id": 0,
+      "text": "embryo"
+    }
+  },
+  {
+    "id": 39,
+    "text": "The part of embryo that grows into leaves is called ________________",
+    "correct": {
+      "id": 0,
+      "text": "plumule"
+    }
+  },
+  {
+    "id": 40,
+    "text": "The part of embryo that grows into root is called ________________",
+    "correct": {
+      "id": 0,
+      "text": "radicle"
+    }
+  },
+  {
+    "id": 41,
+    "text": "Seeds need ____________, ___________ and ________________ for germination.",
+    "correct": {
+      "text": "air, water and temperature"
+    }
+  },
+  {
+    "id": 42,
+    "text": "Potato is a modified ________________ stem",
+    "correct": {
+      "id": 0,
+      "text": "propagative"
+    }
+  },
+  {
+    "id": 43,
+    "text": "In bryophyllum, new plants arise from notches on the margin of the _________________",
+    "correct": {
+      "id": 0,
+      "text": "leaves"
+    }
+  },
+  {
+    "id": 44,
+    "text": "Rose and sugar cane are generally propagated by ____________________________",
+    "correct": {
+      "id": 0,
+      "text": "stem cutting"
+    }
+  },
+  {
+    "id": 45,
+    "text": "Jasmine and grapevine are generally propagated by _________________________",
+    "correct": {
+      "id": 0,
+      "text": "layering"
+    }
+  },
+  {
+    "id": 46,
+    "text": "Mango and guava are generally propagated by ________________________",
+    "correct": {
+      "id": 0,
+      "text": "grafting"
+    }
+  },
+  {
+    "id": 47,
+    "text": "Give two examples of seeds dispersed by wind",
+    "correct": {
+      "text": "Cotton, Sunflower"
+    }
+  },
+  {
+    "id": 48,
+    "text": "Give two examples of seeds dispersed by water",
+    "correct": {
+      "text": "Lotus, Coconut"
+    }
+  },
+  {
+    "id": 49,
+    "text": "Give two examples of seeds dispersed by animals",
+    "correct": {
+      "id": 0,
+      "text": "Tribulus, Pupalia"
+    }
+  },
+  {
+    "id": 50,
+    "text": "Give two examples of seeds dispersed by man",
+    "correct": {
+      "id": 0,
+      "text": "Mango, Papaya"
+    }
+  },
+  {
+    "id": 51,
+    "text": "Why do plants produce so many seeds?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 52,
+    "text": "How are seeds destroyed?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 53,
+    "text": "Describe the structure of a seed. Support your answer with a diagram.",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 54,
+    "text": "What are the conditions necessary for germination?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 55,
+    "text": "Which part of embryo is used for storing food?",
+    "correct": {
+      "id": 0,
+      "text": "cotyledons"
+    }
+  },
+  {
+    "id": 56,
+    "text": "Which part of embryo is used for growing into shoot?",
+    "correct": {
+      "id": 0,
+      "text": "plumule"
+    }
+  },
+  {
+    "id": 57,
+    "text": "Which part of embryo is used for growing into root?",
+    "correct": {
+      "id": 0,
+      "text": "radicle"
+    }
+  },
+  {
+    "id": 58,
+    "text": "Describe an experiment showing the conditions necessary for germination.",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 59,
+    "text": "Define germination. Explain the process of germination.",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 60,
+    "text": "What is meant by vegetative propagation? List the different methods of vegetative propagation.",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 61,
+    "text": "What are the advantages of vegetative propagation?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 62,
+    "text": "Differentiate between cutting and layering.",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 63,
+    "text": "What is meant by grafting?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 64,
+    "text": "What are the special features of the seeds and fruits dispersed by the wind?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 65,
+    "text": "What are the special features of the fruits dispersed by water?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 66,
+    "text": "What is importance of dispersal of seeds?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 67,
+    "text": "What will happen if all seeds of plant took root around that plant itself?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 68,
+    "text": "Why do plants whoose seeds are dispersed by wind have light weight seeds?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  }
+]
