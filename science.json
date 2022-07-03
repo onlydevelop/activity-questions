@@ -298,7 +298,6 @@
     "id": 22,
     "text": "Define Respiration",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -306,7 +305,6 @@
     "id": 23,
     "text": "Define Cell",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -314,7 +312,6 @@
     "id": 24,
     "text": "Define Response",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -322,7 +319,6 @@
     "id": 25,
     "text": "Define Reproduction",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -330,7 +326,6 @@
     "id": 26,
     "text": "What is the difference between the growth of plants and animals?",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -338,7 +333,6 @@
     "id": 27,
     "text": "What are stimuli?",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -346,7 +340,6 @@
     "id": 28,
     "text": "How do plants respond to stimuli? Give example.",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -354,7 +347,6 @@
     "id": 29,
     "text": "Describe reproduction in animals.",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -362,7 +354,6 @@
     "id": 30,
     "text": "How do plants reproduce?",
     "correct": {
-      "id": 0,
       "text": ""
     }
   },
@@ -534,7 +525,6 @@
     "id": 41,
     "text": "Seeds need ____________, ___________ and ________________ for germination.",
     "correct": {
-      "id": 0,
       "text": "air, water and temperature"
     }
   },
@@ -582,16 +572,14 @@
     "id": 47,
     "text": "Give two examples of seeds dispersed by wind",
     "correct": {
-      "id": 0,
-      "text": ""
+      "text": "Cotton, Sunflower"
     }
   },
   {
     "id": 48,
     "text": "Give two examples of seeds dispersed by water",
     "correct": {
-      "id": 0,
-      "text": ""
+      "text": "Lotus, Coconut"
     }
   },
   {
@@ -599,7 +587,7 @@
     "text": "Give two examples of seeds dispersed by animals",
     "correct": {
       "id": 0,
-      "text": ""
+      "text": "Tribulus, Pupalia"
     }
   },
   {
@@ -607,7 +595,7 @@
     "text": "Give two examples of seeds dispersed by man",
     "correct": {
       "id": 0,
-      "text": ""
+      "text": "Mango, Papaya"
     }
   },
   {
