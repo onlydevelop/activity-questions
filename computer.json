@@ -1,0 +1,164 @@
+[
+  {
+    "id": 0,
+    "text": "The full form of ENIAC is ____________________________________________",
+    "correct": {
+      "id": 0,
+      "text": "Electronic Numerical Integrator And Calculator"
+    }
+  },
+  {
+    "id": 1,
+    "text": "______________ is an early calculating device, primarily used in Asia.",
+    "correct": {
+      "id": 0,
+      "text": "Abacus"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Vaccum tubes were replaced by __________________ in the second generation of computers.",
+    "correct": {
+      "id": 0,
+      "text": "Transistor"
+    }
+  },
+  {
+    "id": 3,
+    "text": "The fourth generation computers used _____________________ which reduced the size of modern computer.",
+    "correct": {
+      "id": 0,
+      "text": "Microprocessor"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Abacus is the first known calculating device.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 5,
+    "text": "The third generation computers used transistors.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 6,
+    "text": "The first generation computers were typically large and needed a room for accommodation.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 7,
+    "text": "Analytical Engine replaced Pascaline.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Charles Babbage built Difference Engine in the Year 1822",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 9,
+    "text": "Which is the first mechanical calculating machine?",
+    "correct": {
+      "id": 0,
+      "text": "Pascaline"
+    }
+  },
+  {
+    "id": 10,
+    "text": "What did fourth generation computer use to reduce size and increase efficiency?",
+    "correct": {
+      "id": 0,
+      "text": "Microprocessor"
+    }
+  },
+  {
+    "id": 11,
+    "text": "Which was the first automatic sequence controlled calculator?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 12,
+    "text": "What did first generation computer used?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  {
+    "id": 13,
+    "text": "Who invented Pascaline?",
+    "correct": {
+      "id": 0,
+      "text": ""
+    }
+  }
+]
