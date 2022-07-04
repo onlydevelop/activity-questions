@@ -142,7 +142,7 @@
     "text": "Which was the first automatic sequence controlled calculator?",
     "correct": {
       "id": 0,
-      "text": ""
+      "text": "Harvard Mark I"
     }
   },
   {
@@ -159,6 +159,298 @@
     "correct": {
       "id": 0,
       "text": "Blaise Pascal"
+    }
+  },
+  {
+    "id": 14,
+    "text": "The collection of programs that instructs a computer how to perform different types of task is called ______________",
+    "correct": {
+      "id": 0,
+      "text": "Software"
+    }
+  },
+  {
+    "id": 15,
+    "text": "A compiler transforms the human readable code of an entire program to ______________ code",
+    "correct": {
+      "id": 0,
+      "text": "Machine language"
+    }
+  },
+  {
+    "id": 16,
+    "text": "A ______________ program helps to perform calculations, analyse data and present information in tabular form.",
+    "correct": {
+      "id": 0,
+      "text": "spreadsheet"
+    }
+  },
+  {
+    "id": 17,
+    "text": "DBMS stands for ________________________________________________",
+    "correct": {
+      "id": 0,
+      "text": "Database management system"
+    }
+  },
+  {
+    "id": 18,
+    "text": "Specific purpose application software is used in _________________",
+    "correct": {
+      "id": 0,
+      "text": "Billing system"
+    }
+  },
+  {
+    "id": 19,
+    "text": "Operating system is the central coordination between hardware and software.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 20,
+    "text": "School software is a part of General Purpose Application software.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 21,
+    "text": "Assembler converts machine language code to assembly language code.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 22,
+    "text": "Virus is a malicious program that disrupts the normal functioning of a computer.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 23,
+    "text": "Disk Defragmentation is the technique of compressing files.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "False"
+    }
+  },
+  {
+    "id": 24,
+    "text": "McAfee is an antivirus program.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "True"
+      },
+      {
+        "id": 1,
+        "text": "False"
+      }
+    ],
+    "correct": {
+      "id": 0,
+      "text": "True"
+    }
+  },
+  {
+    "id": 25,
+    "text": "Software that is used to manage all programs and resources of a computer.",
+    "correct": {
+      "id": 0,
+      "text": "Operating System"
+    }
+  },
+  {
+    "id": 26,
+    "text": "A program that converts high level language code to machine level language code line by line.",
+    "correct": {
+      "id": 0,
+      "text": "Compiler"
+    }
+  },
+  {
+    "id": 27,
+    "text": "Programs that support the smooth functioning of a computer.",
+    "correct": {
+      "id": 0,
+      "text": "Utility programs"
+    }
+  },
+  {
+    "id": 28,
+    "text": "Application software that helps to created structured text documents.",
+    "correct": {
+      "id": 0,
+      "text": "MS Word"
+    }
+  },
+  {
+    "id": 29,
+    "text": "Set of instructions written in computer language to perform a specific task.",
+    "correct": {
+      "id": 0,
+      "text": "Program"
+    }
+  },
+  {
+    "id": 30,
+    "text": "MS PowerPoint is an example of _________________________________",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Database Software"
+      },
+      {
+        "id": 1,
+        "text": "Multimedia Software"
+      },
+      {
+        "id": 2,
+        "text": "Presentation Software"
+      },
+      {
+        "id": 3,
+        "text": "Chips"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Presentation Software"
+    }
+  },
+  {
+    "id": 31,
+    "text": "A master control program that runs the computer:",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Interpreter"
+      },
+      {
+        "id": 1,
+        "text": "Compiler"
+      },
+      {
+        "id": 2,
+        "text": "Assembler"
+      },
+      {
+        "id": 3,
+        "text": "Operating System"
+      }
+    ],
+    "correct": {
+      "id": 3,
+      "text": "Operating System"
+    }
+  },
+  {
+    "id": 32,
+    "text": "Backup is a ___________________________ software.",
+    "choices": [
+      {
+        "id": 0,
+        "text": "Customized"
+      },
+      {
+        "id": 1,
+        "text": "Utility"
+      },
+      {
+        "id": 2,
+        "text": "Genral purpose"
+      },
+      {
+        "id": 3,
+        "text": "Specific purpose"
+      }
+    ],
+    "correct": {
+      "id": 1,
+      "text": "Utility"
+    }
+  },
+  {
+    "id": 33,
+    "text": "Which of the following is not a function of Operating System?",
+    "choices": [
+      {
+        "id": 0,
+        "text": "File Management"
+      },
+      {
+        "id": 1,
+        "text": "Memory Management"
+      },
+      {
+        "id": 2,
+        "text": "Database Management"
+      },
+      {
+        "id": 3,
+        "text": "Device Management"
+      }
+    ],
+    "correct": {
+      "id": 2,
+      "text": "Database Management"
     }
   }
 ]
